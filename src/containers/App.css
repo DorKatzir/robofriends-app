@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+#root{
+   
+        padding-top: 2rem;
+}
+h1{
+    font-family: 'Press Start 2P', cursive;
+    /* color: rgb(160, 225, 255); */
+    color: #17eee7;
+    text-shadow:  1px 1px 1px rgba(7,27,82, 1);
+}
+hr{
+    border: 1px solid rgba(160, 225, 255, .25);
+    display: inline-block;
+    width: 90%;
+    margin: 0;
+}
+input{
+    background-color: rgb(160, 225, 255);
+}
+::placeholder{
+    color:  rgba(7,27,82,1);
+    text-transform: capitalize;
+}

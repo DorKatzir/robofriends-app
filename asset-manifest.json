@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/robofriends-app/static/css/main.1ee040aa.chunk.css",
-    "main.js": "/robofriends-app/static/js/main.d807e6af.chunk.js",
-    "main.js.map": "/robofriends-app/static/js/main.d807e6af.chunk.js.map",
+    "main.css": "/robofriends-app/static/css/main.bdf4fa59.chunk.css",
+    "main.js": "/robofriends-app/static/js/main.66233ce0.chunk.js",
+    "main.js.map": "/robofriends-app/static/js/main.66233ce0.chunk.js.map",
     "runtime-main.js": "/robofriends-app/static/js/runtime-main.5163164d.js",
     "runtime-main.js.map": "/robofriends-app/static/js/runtime-main.5163164d.js.map",
-    "static/js/2.dfad0a7b.chunk.js": "/robofriends-app/static/js/2.dfad0a7b.chunk.js",
-    "static/js/2.dfad0a7b.chunk.js.map": "/robofriends-app/static/js/2.dfad0a7b.chunk.js.map",
+    "static/css/2.5fc2cff3.chunk.css": "/robofriends-app/static/css/2.5fc2cff3.chunk.css",
+    "static/js/2.bad996f6.chunk.js": "/robofriends-app/static/js/2.bad996f6.chunk.js",
+    "static/js/2.bad996f6.chunk.js.map": "/robofriends-app/static/js/2.bad996f6.chunk.js.map",
     "index.html": "/robofriends-app/index.html",
-    "precache-manifest.d4989f8c7ff0a1b25695d324cc9bd4b8.js": "/robofriends-app/precache-manifest.d4989f8c7ff0a1b25695d324cc9bd4b8.js",
+    "precache-manifest.c3be3c6f9668d98964d72a505b0ca02e.js": "/robofriends-app/precache-manifest.c3be3c6f9668d98964d72a505b0ca02e.js",
     "service-worker.js": "/robofriends-app/service-worker.js",
-    "static/css/main.1ee040aa.chunk.css.map": "/robofriends-app/static/css/main.1ee040aa.chunk.css.map",
-    "static/js/2.dfad0a7b.chunk.js.LICENSE.txt": "/robofriends-app/static/js/2.dfad0a7b.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/robofriends-app/static/media/logo.5d5d9eef.svg"
+    "static/css/2.5fc2cff3.chunk.css.map": "/robofriends-app/static/css/2.5fc2cff3.chunk.css.map",
+    "static/css/main.bdf4fa59.chunk.css.map": "/robofriends-app/static/css/main.bdf4fa59.chunk.css.map",
+    "static/js/2.bad996f6.chunk.js.LICENSE.txt": "/robofriends-app/static/js/2.bad996f6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5163164d.js",
-    "static/js/2.dfad0a7b.chunk.js",
-    "static/css/main.1ee040aa.chunk.css",
-    "static/js/main.d807e6af.chunk.js"
+    "static/css/2.5fc2cff3.chunk.css",
+    "static/js/2.bad996f6.chunk.js",
+    "static/css/main.bdf4fa59.chunk.css",
+    "static/js/main.66233ce0.chunk.js"
   ]
 }
